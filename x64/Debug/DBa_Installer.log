@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Work\DBa_Installer\Main.h(303,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\include\Event.h(58,29): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Work\DBa_Installer\Main.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Already_installed.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DBa_Installer.vcxproj -> D:\dba\installer_act\DBa Installer.exe

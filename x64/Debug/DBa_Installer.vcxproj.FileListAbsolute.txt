@@ -1,0 +1,7 @@
+D:\Work\DBa_Installer\x64\Debug\DBa_Installer.vcxproj.AssemblyReference.cache
+D:\Work\DBa_Installer\x64\Debug\DBa_Installer.vcxproj.SuggestedBindingRedirects.cache
+D:\Work\DBa_Installer\x64\Debug\DBaInstaller.Main.resources
+D:\Work\DBa_Installer\x64\Debug\DBa_Installer.vcxproj.GenerateResource.cache
+D:\Work\DBa_Installer\x64\Debug\DBaInstaller.Done.resources
+D:\Work\DBa_Installer\x64\Debug\DBaInstaller.Already_installed.resources
+D:\Work\DBa_Installer\x64\Debug\DBaInstaller.use_def_user_data_warn.resources
